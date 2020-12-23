@@ -21,6 +21,12 @@ Copy the files into the root of the sdcard.
 On the first boot up your chip will enter into a training session, blinking yellow. This may take up to 30 minutes. (Recommended to plug in a charger)
 After the initial training the chip will blink magenta and turn green upon successful boot up.
 
+<B>Third:</B>
+
+Partition you SDCard and Create a Emunand.
+Just run Emunand.
+
+
 <B>All Done</B>
 
 Calm down and try again.
