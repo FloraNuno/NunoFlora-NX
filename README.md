@@ -17,7 +17,7 @@ Link here https://github.com/Spacecraft-NX/firmware
 
 <B>Second:</B>
 
-Copy the files into the root of the sdcard.
+Download the latest build, open it and put everything from inside the NunoFlora-NX-0.1.0 folder to the root of the sdcard.
 On the first boot up your chip will enter into a training session, blinking yellow. This may take up to 30 minutes. (Recommended to plug in a charger)
 After the initial training the chip will blink magenta and turn green upon successful boot up.
 
