@@ -1,10 +1,11 @@
 # NunoFlora-NX
 NunoFlora is a customized firmware for the Nintendo Switch v1 Patched SX CORE.
 
-What is this?
+<B>What is this?</B>
+
 Thanks to a opensource SX Core / Lite compatible firmware, you can now install Atmosphere-NX in your Switch v1 patched.
 
-Can i run CTCaer/hekate?
+<B>Can i run CTCaer/hekate?</B>
 
 Yes support patched erista chips.
 
