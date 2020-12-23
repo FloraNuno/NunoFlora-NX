@@ -5,6 +5,7 @@ What is this?
 Thanks to a opensource SX Core / Lite compatible firmware, you can now install Atmosphere-NX in your Switch v1 patched.
 
 Can i run CTCaer/hekate?
+
 Yes support patched erista chips.
 
 
